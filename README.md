@@ -1,10 +1,3 @@
-# Conveters
-
-Sure! Here's a template for your README file:
-
----
-
-# Converter Repository
 
 ## Overview
 
